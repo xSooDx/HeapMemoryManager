@@ -1,0 +1,1 @@
+A Heap memory manager created for the C++ Game Programing course of the Masters of Entertainment Arts and Engineering program at the University of Utah.
